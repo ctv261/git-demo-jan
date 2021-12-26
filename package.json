@@ -18,6 +18,7 @@
     },
     "homepage": "https://github.com/ctv261/git-demo-jan#readme",
     "dependencies": {
+        "ccxt": "^1.65.19",
         "express": "^4.17.2"
     }
 }
