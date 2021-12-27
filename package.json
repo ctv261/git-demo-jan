@@ -21,6 +21,7 @@
         "express": "^4.17.2"
     },
     "devDependencies": {
+        "@binance/connector": "^1.6.0",
         "typescript": "^4.5.4"
     }
 }
