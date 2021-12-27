@@ -20,5 +20,8 @@
     "dependencies": {
         "ccxt": "^1.65.19",
         "express": "^4.17.2"
+    },
+    "devDependencies": {
+        "typescript": "^4.5.4"
     }
 }
